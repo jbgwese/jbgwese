@@ -34,20 +34,14 @@ Here are some ideas to get you started:
     <br>
     <br>
     <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
-      <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" /> 
+
   </kbd>
   <kbd>
-    <kbd>Back-end</kbd>
+    <kbd>Back-End</kbd>
     <br>
     <br>
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-plain.svg" /> 
     <a href="https://expressjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
