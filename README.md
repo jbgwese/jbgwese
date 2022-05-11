@@ -2,7 +2,7 @@
 
 ## 🤓 About Me
 
-<h3 align="center">A 4+ years profecient Back-End developer and an inventive web enthusiast😄</h3>
+<h3 align="center">A 4+ years proficient Back-End developer and an inventive web enthusiast😄</h3>
 
 <br>
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
