@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">▶ Stats:</h3>
 <!-- <p align="center">
-<img src="https://metrics.lecoq.io/jbgwese?template=classic&base.indepth=false&config.timezone=Africa%2FHarare" alt="jbgwese"
+<img src="https://metrics.lecoq.io/jbgwese?template=terminal&config.timezone=Africa%2FHarare" alt="jbgwese"
 </p>
  -->
 <p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/aakashsh1999?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/aakashsh1999/?style=for-the-badge"/>
