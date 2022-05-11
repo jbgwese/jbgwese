@@ -165,11 +165,11 @@ Here are some ideas to get you started:
   </a>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsh1999&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbgwese&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashsh1999&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbgwese&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsh1999&theme=holi-theme">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbgwese&theme=holi-theme">
 </p>
