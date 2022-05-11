@@ -140,3 +140,35 @@ Here are some ideas to get you started:
 </br>
     </p>
 
+<h3 align="left">▶ Stats:</h3>
+![Metrics](https://metrics.lecoq.io/jbgwese?template=classic&base.indepth=false&config.timezone=Africa%2FHarare)
+</p>
+ -->
+<p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/aakashsh1999?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/aakashsh1999/?style=for-the-badge"/>
+</p>
+<p align="center"><img src="https://badges.pufler.dev/commits/monthly/aakashsh1999"/></p>
+
+<!-- <img src="https://github.com/aakashsh1999/aakashsh1999/blob/output/github-contribution-grid-snake.svg" /></p> -->
+
+<!--
+[![Spotify](https://novatorem-tekyaygilfethi.vercel.app/api/spotify)](https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq)
+-->
+<!-- <hr>
+<h2 align="center">Now Playing</h2>
+ <a href ="https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq">
+<p align="center"> -->
+
+<!-- <img src="https://novatorem-tekyaygilfethi.vercel.app/api/spotify" alt="Spotify Now Playing" width="550" /> -->
+
+</p>
+  </a>
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsh1999&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashsh1999&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsh1999&theme=holi-theme">
+</p>
