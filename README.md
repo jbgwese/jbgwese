@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=000000&lines=Hey!+It's+Job+Gwese+%F0%9F%91%8B;I'm+A+Full+Stack++Developer;I'm+A+Back-End+Developer;I'm+A+Front-End+Developer)](https://git.io/typing-svg)
 
+## 📸 About Me
+
+<h3 align="center">A passionate Front End Developer. Love to build Mobile and Web Applications with latest tech available😄
+</h3>
+
+<br>
+
 <!--
 **jbgwese/jbgwese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
