@@ -145,11 +145,11 @@ Here are some ideas to get you started:
 <img src="https://metrics.lecoq.io/jbgwese?template=terminal&config.timezone=Africa%2FHarare" alt="jbgwese"
 </p>
  -->
-<p align="center"><img src="https://badges.pufler.dev/visits/aakashsh1999/aakashsh1999?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/aakashsh1999/?style=for-the-badge"/>
+<p align="center"><img src="https://badges.pufler.dev/visits/jbgwese/jbgwese?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/jbgwese/?style=for-the-badge"/>
 </p>
-<p align="center"><img src="https://badges.pufler.dev/commits/monthly/aakashsh1999"/></p>
+<p align="center"><img src="https://badges.pufler.dev/commits/monthly/jbgwese"/></p>
 
-<!-- <img src="https://github.com/aakashsh1999/aakashsh1999/blob/output/github-contribution-grid-snake.svg" /></p> -->
+<!-- <img src="https://github.com/jbgwese/jbgwese/blob/output/github-contribution-grid-snake.svg" /></p> -->
 
 <!--
 [![Spotify](https://novatorem-tekyaygilfethi.vercel.app/api/spotify)](https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq)
