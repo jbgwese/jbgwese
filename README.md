@@ -42,40 +42,16 @@ Here are some ideas to get you started:
     <br>
     <br>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" /> 
-    <a href="https://expressjs.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-      <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-      <a href="https://postman.com" target="_blank">
-    <img
+   <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
       width="40"
       height="40"
     />
   </a>
+     
   </kbd>
-   <kbd>
-    <kbd>Mobile</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-     <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="30px"/>
-  </kbd>
- <kbd>
+
   <kbd>
     <kbd>Front-end</kbd>
     <br>
