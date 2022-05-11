@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <kbd>Back-End</kbd>
     <br>
     <br>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-plain.svg" /> 
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" /> 
     <a href="https://expressjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
