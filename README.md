@@ -9,12 +9,12 @@
 
 ### I am a full stack Developer 👨‍💻
 
-Here are some ideas to get you started:
+Here are some aspects you may need to know about me:
 
-- 🔭 I’m currently working on my Personal Portfolio
+- 🔭 I’m currently working on freelance projects
 - 🌱 I’m currently learning mastery of Front-End Development 
 - 👯 I’m looking to collaborate other Developers :wink:
-- 🥅 2022 Goals: Contribute to Open Source projects & get more certifications
+- 🥅 2022 Goals: Oracle Professional Java SE 11 Developer Certifiction
 - 💬 Ask me about anything, I am elated to help :smile:
 - 📫 How to reach me: LinkedIn or Twitter
 - ⚡ Fun fact: I am ever progressing 🚅
